@@ -15,3 +15,8 @@
   * Item 3b  
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
+First Header | Second Header
+------------ | -------------
+content cell 1 | content cell 2
+content column 1 | content column 2
+
